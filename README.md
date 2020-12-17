@@ -1,1 +1,0 @@
-# altstaedter-schule.github.io
