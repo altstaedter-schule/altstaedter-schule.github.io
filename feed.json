@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-fuer-die-neuen-spielgeraete-im-spielhaus/",
+            "url": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-fuer-die-neuen-spielgeraete-im-spielhaus/",
+            "title": "Danke, lieber Förderverein für die neuen Spielgeräte im Spielhaus",
+            "summary": "Endlich sind auch die neuen Spielgeräte für das Spielhaus geliefert worden. Sogleich macht sich die Klasse 3b ans Werk, packt die Spielgeräte aus und räumt sie in das Spielhaus ein. Hüpfbälle, ein Sitzkreisel, Pferdeleinen, Sandspielzeug, Fußbälle, Springseile, Gummitwist, Stelzen, Sitzkissen für draußen und vieles mehr&hellip;",
+            "content_html": "<p>Endlich sind auch die neuen Spielgeräte für das Spielhaus geliefert worden. Sogleich macht sich die Klasse 3b ans Werk, packt die Spielgeräte aus und räumt sie in das Spielhaus ein. Hüpfbälle, ein Sitzkreisel, Pferdeleinen, Sandspielzeug, Fußbälle, Springseile, Gummitwist, Stelzen, Sitzkissen für draußen und vieles mehr kann nun im Spielhaus ausgeliehen werden. Das ist toll!</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus2.jpg\" data-size=\"640x480\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus2-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus4.jpg\" data-size=\"640x480\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus4-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus3.jpg\" data-size=\"640x480\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus3-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"480\"></a></figure>\n</div></div>\n<p>Wenn wir unsere lieben Förderverein nicht hätten, gäbe es kein Spielhaus und keine Spielgeräte für den Schulhof. Wir freuen uns über die neuen Spiele und sind froh, dass unser Förderverein unser Spielhaus neu ausgestattet hat. Danke!</p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/101/Spilehaus_1.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-23T18:20:09+01:00",
+            "date_modified": "2021-03-23T18:21:44+01:00"
+        },
+        {
+            "id": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/",
+            "url": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/",
+            "title": "Danke, lieber Förderverein der Altstädter Schule für die neuen Klassenspiele ",
+            "summary": "Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten. ",
+            "content_html": "<p>Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/100/Looping.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-2xl.jpg 1600w\"  alt=\"Looping Louis\" width=\"1600\" height=\"1200\"></figure>\n<p>Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten.</p>\n<p> </p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/100/Twister.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-14T20:02:40+01:00",
+            "date_modified": "2021-03-14T20:02:40+01:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/unser-lesezimmer-ist-wieder-geoeffnet/",
             "url": "https://www.altstaedter-grundschule.de/unser-lesezimmer-ist-wieder-geoeffnet/",
             "title": "Unser Lesezimmer ist wieder geöffnet",
@@ -89,7 +119,7 @@
             "id": "https://www.altstaedter-grundschule.de/elmar-der-froehlich-bunte-elefant/",
             "url": "https://www.altstaedter-grundschule.de/elmar-der-froehlich-bunte-elefant/",
             "title": "Elmar, der fröhlich bunte Elefant",
-            "summary": "Elmar ist bunt. Das weiß doch jeder. Die Klasse 1a malt lauter Elmars, einer \"bunter\" als der andere.",
+            "summary": "Elmar ist bunt. Das weiß doch jeder. Die Klasse 1a malt lauter Elmars, einer \"bunter\" als der andere. ",
             "content_html": "<p>Elmar ist bunt. Das weiß doch jeder. Die Klasse 1a malt lauter Elmars, einer \"bunter\" als der andere.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/94/1a-malt-Elmar.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/94/responsive/1a-malt-Elmar-2xl.jpeg 1600w\"  alt=\"\" width=\"4032\" height=\"3024\"></figure>",
             "image": "https://www.altstaedter-grundschule.de/media/posts/94/Elmar-2.jpeg",
             "author": {
@@ -129,36 +159,6 @@
             ],
             "date_published": "2020-11-26T20:53:35+01:00",
             "date_modified": "2021-03-05T19:03:59+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/ags/",
-            "url": "https://www.altstaedter-grundschule.de/ags/",
-            "title": "AGs",
-            "summary": "Unsere Arbeitsgemeinschaften finden immer in der 6. Stunde statt. In diesem Schuljahr ist alles anders wegen Corona. Es gibt AGs für die 4. Klassen und für die 3. Klassen. Aus unserer Lego-AG: An der Lego-AG dürfen in diesem Schuljahr nur die 3. Klassen teilnehmen. In&hellip;",
-            "content_html": "<p>Unsere Arbeitsgemeinschaften finden immer in der 6. Stunde statt. In diesem Schuljahr ist alles anders wegen Corona. Es gibt AGs für die 4. Klassen und für die 3. Klassen. </p>\n<p><strong>Aus unserer Lego-AG:</strong></p>\n<p>An der Lego-AG dürfen in diesem Schuljahr nur die 3. Klassen teilnehmen. In der Lego-AG bauen wir kleine Roboter mit Lego Wedo 2.0. Die Roboter müssen natürlich auch programmiert werden, damit sie fahren, sich bewegen oder leuchten. Dazu nutzen wir unsere schuleigenen iPads.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/89/Roboter.mov\" alt=\"\"></figure> Sieh dir dazu einmal unseren Film an: <a href=\"https://www.altstaedter-grundschule.de/media/files/Roboter.mp4\">Roboter.mp4</a></p>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/89/Lego-3.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-11-26T20:32:10+01:00",
-            "date_modified": "2021-01-03T18:15:47+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/klassen/",
-            "url": "https://www.altstaedter-grundschule.de/klassen/",
-            "title": "Klassen",
-            "summary": "Hier stellen sich unsere Klassen vor. Klasse 1a Klasse 1b Klasse 4a Klasse 4b",
-            "content_html": "<p>Hier stellen sich unsere Klassen vor.</p>\n<p>Klasse 1a</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/88/IMG_0316-2.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/IMG_0316-2-2xl.jpeg 1600w\"  alt=\"\" width=\"4032\" height=\"2100\"></figure>\n<p>Klasse 1b</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/88/1b-3.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/1b-3-2xl.jpg 1600w\"  alt=\"\" width=\"4032\" height=\"3024\"></figure>\n<p>Klasse 4a</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/88/4a.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4a-2xl.jpeg 1600w\"  alt=\"\" width=\"4032\" height=\"3024\"></figure>\n<p>Klasse 4b</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/88/4b.JPG\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-xs.JPG 300w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-sm.JPG 480w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-md.JPG 768w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-lg.JPG 1024w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-xl.JPG 1360w ,https://www.altstaedter-grundschule.de/media/posts/88/responsive/4b-2xl.JPG 1600w\"  alt=\"\" width=\"4592\" height=\"3448\"></figure>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/88/Klassen.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-11-26T20:31:45+01:00",
-            "date_modified": "2021-01-03T16:46:55+01:00"
         }
     ]
 }
