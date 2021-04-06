@@ -3,12 +3,35 @@
     <title>Altstädter Schule</title>
     <link href="https://www.altstaedter-grundschule.de/feed.xml" rel="self" />
     <link href="https://www.altstaedter-grundschule.de" />
-    <updated>2021-03-25T19:02:10+01:00</updated>
+    <updated>2021-04-06T14:24:14+02:00</updated>
     <author>
         <name>Rita Lemper</name>
     </author>
     <id>https://www.altstaedter-grundschule.de</id>
 
+    <entry>
+        <title>Es ist Frühling</title>
+        <author>
+            <name>Rita Lemper</name>
+        </author>
+        <link href="https://www.altstaedter-grundschule.de/es-ist-fruehling/"/>
+        <id>https://www.altstaedter-grundschule.de/es-ist-fruehling/</id>
+
+        <updated>2021-04-06T14:24:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.altstaedter-grundschule.de/media/posts/102/Fruehling.jpg" alt="" />
+                    Die Altstädter Schule wünschte allen Kindern schöne Osterferien. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.altstaedter-grundschule.de/media/posts/102/Fruehling.jpg" alt="" />
+                <p>Die Altstädter Schule wünschte allen Kindern schöne Osterferien.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/102/Ostern.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-2xl.jpg 1600w"  alt="" width="1600" height="1200"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Danke, lieber Förderverein für die neuen Spielgeräte im Spielhaus</title>
         <author>
@@ -261,29 +284,6 @@
 <figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/93/Tafelkunst.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Tafelkunst-2xl.jpg 1600w"  alt="" width="1805" height="937"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/93/Dinos.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/93/responsive/Dinos-2xl.jpg 1600w"  alt="" width="2566" height="1655"></figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Startseite</title>
-        <author>
-            <name>Rita Lemper</name>
-        </author>
-        <link href="https://www.altstaedter-grundschule.de/startseite-2/"/>
-        <id>https://www.altstaedter-grundschule.de/startseite-2/</id>
-
-        <updated>2021-03-25T19:02:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.altstaedter-grundschule.de/media/posts/91/Startseite_Schuleingang.jpg" alt="" />
-                    Nach den Osterferien findet der Unterricht voraussichtlich weiterhin in Szenario B statt. Lesen Sie dazu den Brief des Kultusministers hier: aktueller Brief des MK. Die niedersächsischen Schule werden mit Selbsttests beliefert. Auch hierzu gibt es einen Elternbrief aus dem Kultusministerium: Elterninformation des MK zu den Corona-Laientests.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.altstaedter-grundschule.de/media/posts/91/Startseite_Schuleingang.jpg" alt="" />
-                <p>Nach den Osterferien findet der Unterricht voraussichtlich weiterhin in Szenario B statt. Lesen Sie dazu den Brief des Kultusministers hier: <a href="https://www.altstaedter-grundschule.de/2021-03-24_Brief_an_Eltern.pdf">aktueller Brief des MK</a>.<br>Die niedersächsischen Schule werden mit Selbsttests beliefert. Auch hierzu gibt es einen Elternbrief aus dem Kultusministerium: <a href="https://www.altstaedter-grundschule.de/Elterninfo GS Corona-Laientests__.pdf">Elterninformation des MK zu den Corona-Laientests</a>. Wenn Sie als Eltern möchten, dass Ihr Kind zu Hause einen Selbsttest durchführt, füllen Sie bitte vorab Ihre Einwilligungserklärung aus und geben Sie diese bei der Klassenleitung ab: <a href="https://www.altstaedter-grundschule.de/Anlage Grundschule _Einwilligungserklaerung Erziehungsberechtigte.pdf">Einwilligungserklärung</a>. Das Kultusministerium hat zu den Selbsttests eine Anleitung herausgegeben: <a href="https://www.altstaedter-grundschule.de/C_Anlage_Information_zur_Anwendung_der_Selbsttests_2021-03-16.pdf">Anleitung zur Anwendung der Corona-Laientests</a><br>Der Fachbereich  für Kinder, Jugendliche und Familien der Stadt Osnabrück bietet Hilfe und Rat für Kinder, Jugendliche und Eltern in Not und Krisen und hat dazu einen Flyer entwickelt: <a href="https://www.altstaedter-grundschule.de/Flyer_Alles_im_Lot_im_Lockdown.pdf">Flyer - Alles im Lot im Lockdown</a><br><br>Unser<a href="https://www.altstaedter-grundschule.de/Film_Vorstellung_Altstaedter_Schule.mp4"> Film_Vorstellung_Altstaedter_schule.mp4</a>  -  Unser <a href="https://www.altstaedter-grundschule.de/Hygienkonzept_Corona.pdf">Hygienekonzept</a></p>
-<figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure>
             ]]>
         </content>
     </entry>
