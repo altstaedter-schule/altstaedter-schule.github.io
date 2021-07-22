@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/zum-abschied-der-4-klassen/",
+            "url": "https://www.altstaedter-grundschule.de/zum-abschied-der-4-klassen/",
+            "title": "Zum Abschied der 4. Klassen",
+            "summary": "Die letzten Tage an der Altstädter Schule bedeuteten für die Viertklässler Abschied nehmen von der Grundschulzeit. Die Patenklassen 2a und 2b gestalteten für die Viertklässler einen Abschied mit Rosen und Fähnchen. Zur Erinnerung an die Grundschulzeit gab es Bilderrahmen mit Erinnerungsfotos und hübsch verpackte Tüten&hellip;",
+            "content_html": "<p>Die letzten Tage an der Altstädter Schule bedeuteten für die Viertklässler Abschied nehmen von der Grundschulzeit. Die Patenklassen 2a und 2b gestalteten für die Viertklässler einen Abschied mit Rosen und Fähnchen. Zur Erinnerung an die Grundschulzeit gab es Bilderrahmen mit Erinnerungsfotos und hübsch verpackte Tüten mit Porträtfotos von jedem einzelnen. Schön war die Zeit mit euch. Macht's gut!</p>\n<p> </p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/106/Portraet.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-21T20:35:43+02:00",
+            "date_modified": "2021-07-21T20:36:17+02:00"
+        },
+        {
+            "id": "https://www.altstaedter-grundschule.de/steckenpferdreiten/",
+            "url": "https://www.altstaedter-grundschule.de/steckenpferdreiten/",
+            "title": "Steckenpferdreiten",
+            "summary": "In diesem Schuljahr war das Steckenpferdreiten für unsere 4. Klassen nicht am 25. Oktober, sondern am 6. Juli. Es waren auch nicht alle Osnabrücker Grundschulen am gleichen Tag zur gleichen Zeit dabei. Es war alles anders und kleiner wegen Corona. Doch schön und aufregend war&hellip;",
+            "content_html": "<p>In diesem Schuljahr war das Steckenpferdreiten für unsere 4. Klassen nicht am 25. Oktober, sondern am 6. Juli. Es waren auch nicht alle Osnabrücker Grundschulen am gleichen Tag zur gleichen Zeit dabei. Es war alles anders und kleiner wegen Corona. Doch schön und aufregend war es trotzdem. Vom Oberbürgermeister gab es die Brezel wie in jedem Jahr. Sie schmeckte auch im Sommer.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/105/C8858113-B2B3-4A1A-9B03-FD5BF3046A60.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/C8858113-B2B3-4A1A-9B03-FD5BF3046A60-2xl.jpeg 1600w\"  alt=\"\" width=\"2048\" height=\"1536\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/105/6C28962B-F2CA-446E-BB02-793C77655581.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/105/responsive/6C28962B-F2CA-446E-BB02-793C77655581-2xl.jpeg 1600w\"  alt=\"\" width=\"2048\" height=\"1536\"></figure>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/105/Steckenpferdreiten.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-21T20:23:49+02:00",
+            "date_modified": "2021-07-21T20:26:51+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/radfahrpruefung/",
             "url": "https://www.altstaedter-grundschule.de/radfahrpruefung/",
             "title": "Radfahrprüfung",
@@ -129,36 +159,6 @@
             ],
             "date_published": "2020-12-13T18:31:52+01:00",
             "date_modified": "2021-01-03T18:01:06+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/weihnachtsferien-ab-14-dezember/",
-            "url": "https://www.altstaedter-grundschule.de/weihnachtsferien-ab-14-dezember/",
-            "title": "Weihnachtsferien ab 14. Dezember",
-            "summary": "Gedanken dazu aus der Klasse 1a - Heute schreibt uns der Kultusminister. Wenn wir wollen, fangen die Ferien schon am 14. Dezember an. Dann entscheidet also jeder selbst, wann Ferien sind? Wir haben das gerade besprochen. Wir kommen. Wir verpassen den Advent. Wir schwänzen den&hellip;",
-            "content_html": "<p>Gedanken dazu aus der Klasse 1a - </p>\n<p>Heute schreibt uns der Kultusminister. Wenn wir wollen, fangen die Ferien schon am 14. Dezember an.</p>\n<p>Dann entscheidet also jeder selbst, wann Ferien sind?</p>\n<p>Wir haben das gerade besprochen. Wir kommen.</p>\n<p>Wir verpassen den Advent.</p>\n<p>Wir schwänzen den Unterricht.</p>\n<p>Wir vergessen alles, was wir vorher gelernt haben.</p>\n<p>Wir verpassen die Pause.</p>\n<p>Wir können die Adventskalenderpäckchen nicht mehr aufmachen.</p>\n<p>Wenn Freunde schon in die Ferien gehen, können die Kinder nicht mit ihren Freunden spielen, die entschieden haben, dass sie schon in die Ferien gehen.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien5.jpg\" data-size=\"600x779\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien5-thumbnail.jpg\" alt=\"\" width=\"600\" height=\"779\"></a>\n<figcaption>Wir fangen nicht mit dem neuen Buchstabenheft an.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien6.jpg\" data-size=\"500x557\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien6-thumbnail.jpg\" alt=\"\" width=\"500\" height=\"557\"></a>\n<figcaption>Thilo ist allein zu Hause. 😔</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien4.jpg\" data-size=\"800x713\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien4-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"642\"></a>\n<figcaption>Unsere Lehrerin ist traurig im leeren Klassenraum.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien_2.jpg\" data-size=\"676x351\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/95/gallery/Ferien_2-thumbnail.jpg\" alt=\"\" width=\"676\" height=\"351\"></a>\n<figcaption>Und die übrigen Adventspäckchen?</figcaption>\n</figure>\n</div></div>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/95/Ferien.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-12-10T19:35:32+01:00",
-            "date_modified": "2021-01-03T18:42:30+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/weihnachtskarten-fuer-derby/",
-            "url": "https://www.altstaedter-grundschule.de/weihnachtskarten-fuer-derby/",
-            "title": "Weihnachtskarten für Derby",
-            "summary": "Eigentlich kommt die Städtebotschafterin aus Derby jedes Jahr vor Weihnachten zu uns in die Schule. Wir überreichen ihr unsere Weihnachtskarten und wir bekommen Weihnachtskarten aus Derby. Doch in diesem Jahr fällt der Besuch wegen Corona aus. Leider. Aber Weihnachtskarten für Derby gestalten wir trotzdem. Wir&hellip;",
-            "content_html": "<p>Eigentlich kommt die Städtebotschafterin aus Derby jedes Jahr vor Weihnachten zu uns in die Schule. Wir überreichen ihr unsere Weihnachtskarten und wir bekommen Weihnachtskarten aus Derby. Doch in diesem Jahr fällt der Besuch wegen Corona aus. Leider. Aber Weihnachtskarten für Derby gestalten wir trotzdem. Wir haben uns dabei wie immer besonders viel Mühe gegeben, natürlich haben wir die Karten auf Englisch geschrieben, versteht sich.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/92/Derby-3.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-xs.jpeg 300w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-sm.jpeg 480w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-md.jpeg 768w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-lg.jpeg 1024w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-xl.jpeg 1360w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby-3-2xl.jpeg 1600w\"  alt=\"\" width=\"4032\" height=\"3024\"></figure>\n<p>Heute haben wir die Weihnachtskarten aus Derby in Empfang genommen. Es sind sehr schöne Weihnachtskarten. Die Kinder aus Derby haben uns \"Frohe Weihnachten\" auf Deutsch gewünscht.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/92/Derby_D.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-xs.png 300w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-sm.png 480w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-md.png 768w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-lg.png 1024w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-xl.png 1360w ,https://www.altstaedter-grundschule.de/media/posts/92/responsive/Derby_D-2xl.png 1600w\"  alt=\"\" width=\"1000\" height=\"674\"></figure>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/92/Weihnachten.gif",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-12-05T19:05:00+01:00",
-            "date_modified": "2020-12-17T21:35:00+01:00"
         }
     ]
 }
