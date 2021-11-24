@@ -3,12 +3,34 @@
     <title>Altstädter Schule</title>
     <link href="https://www.altstaedter-grundschule.de/feed.xml" rel="self" />
     <link href="https://www.altstaedter-grundschule.de" />
-    <updated>2021-10-13T16:58:07+02:00</updated>
+    <updated>2021-11-24T16:55:33+01:00</updated>
     <author>
         <name>Rita Lemper</name>
     </author>
     <id>https://www.altstaedter-grundschule.de</id>
 
+    <entry>
+        <title>Steckenpferdreiten</title>
+        <author>
+            <name>Rita Lemper</name>
+        </author>
+        <link href="https://www.altstaedter-grundschule.de/steckenpferdreiten-2/"/>
+        <id>https://www.altstaedter-grundschule.de/steckenpferdreiten-2/</id>
+
+        <updated>2021-11-24T16:55:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.altstaedter-grundschule.de/media/posts/110/Steckenpferd.jpg" alt="" />
+                    Das diesjährige Steckenpferdreiten zum Friedenstag fand wieder einmal in der kleinen Variante statt. Unsere Viertklässler haben wie immer ihre Steckenpferde selbst genäht aus Plüsch. Den Pferdekopf haben sie mit einer Mähne aus Wolle versehen und ihn auf einen Besenstiel gesetzt und befestigt. Es sind echte&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.altstaedter-grundschule.de/media/posts/110/Steckenpferd.jpg" alt="" />
+                <p>Das diesjährige Steckenpferdreiten zum Friedenstag fand wieder einmal in der kleinen Variante statt. Unsere Viertklässler haben wie immer ihre Steckenpferde selbst genäht aus Plüsch. Den Pferdekopf haben sie mit einer Mähne aus Wolle versehen und ihn auf einen Besenstiel gesetzt und befestigt. Es sind echte Unikate entstanden. Mit diesen Pferden ritten unsere Viertklässler stolz auf den Marktplatz, freuten sich über die Brezel vom Bürgermeister und halten diese Fest auch wenn es nur im kleinen Rahmen stattfand, als etwas ganz Besonderes für sie in Erinnerung.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Neue Schul-T-Shirts - nachhaltig, ökologisch und klimafreundlich</title>
         <author>
@@ -247,31 +269,6 @@
 <figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus3.jpg" data-size="640x480"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/101/gallery/Spielhaus3-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
 </div></div>
 <p>Wenn wir unsere lieben Förderverein nicht hätten, gäbe es kein Spielhaus und keine Spielgeräte für den Schulhof. Wir freuen uns über die neuen Spiele und sind froh, dass unser Förderverein unser Spielhaus neu ausgestattet hat. Danke!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Danke, lieber Förderverein der Altstädter Schule für die neuen Klassenspiele </title>
-        <author>
-            <name>Rita Lemper</name>
-        </author>
-        <link href="https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/"/>
-        <id>https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/</id>
-
-        <updated>2021-03-14T20:02:40+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.altstaedter-grundschule.de/media/posts/100/Twister.jpg" alt="" />
-                    Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.altstaedter-grundschule.de/media/posts/100/Twister.jpg" alt="" />
-                <p>Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. </p>
-<figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/100/Looping.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-2xl.jpg 1600w"  alt="Looping Louis" width="1600" height="1200"></figure>
-<p>Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten.</p>
-<p> </p>
             ]]>
         </content>
     </entry>

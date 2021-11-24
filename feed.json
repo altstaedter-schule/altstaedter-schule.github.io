@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/steckenpferdreiten-2/",
+            "url": "https://www.altstaedter-grundschule.de/steckenpferdreiten-2/",
+            "title": "Steckenpferdreiten",
+            "summary": "Das diesjährige Steckenpferdreiten zum Friedenstag fand wieder einmal in der kleinen Variante statt. Unsere Viertklässler haben wie immer ihre Steckenpferde selbst genäht aus Plüsch. Den Pferdekopf haben sie mit einer Mähne aus Wolle versehen und ihn auf einen Besenstiel gesetzt und befestigt. Es sind echte&hellip;",
+            "content_html": "<p>Das diesjährige Steckenpferdreiten zum Friedenstag fand wieder einmal in der kleinen Variante statt. Unsere Viertklässler haben wie immer ihre Steckenpferde selbst genäht aus Plüsch. Den Pferdekopf haben sie mit einer Mähne aus Wolle versehen und ihn auf einen Besenstiel gesetzt und befestigt. Es sind echte Unikate entstanden. Mit diesen Pferden ritten unsere Viertklässler stolz auf den Marktplatz, freuten sich über die Brezel vom Bürgermeister und halten diese Fest auch wenn es nur im kleinen Rahmen stattfand, als etwas ganz Besonderes für sie in Erinnerung.</p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/110/Steckenpferd.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-22T18:51:50+01:00",
+            "date_modified": "2021-11-24T16:55:33+01:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/neue-schul-t-shirts-nachhaltig-oekologisch-und-klimafreundlich/",
             "url": "https://www.altstaedter-grundschule.de/neue-schul-t-shirts-nachhaltig-oekologisch-und-klimafreundlich/",
             "title": "Neue Schul-T-Shirts - nachhaltig, ökologisch und klimafreundlich",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-03-23T18:20:09+01:00",
             "date_modified": "2021-03-23T18:21:44+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/",
-            "url": "https://www.altstaedter-grundschule.de/danke-lieber-foerderverein-der-altstaedter-schule-fuer-die-neuen-klassenspiele/",
-            "title": "Danke, lieber Förderverein der Altstädter Schule für die neuen Klassenspiele ",
-            "summary": "Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten. ",
-            "content_html": "<p>Unsere neuen Klassenspiele sind großartig. Unser Förderverein hat für jede Klasse neue Gesellschaftsspiele angeschafft. Diese Spiele sorgen in jeder Klasse für große Begeisterung und Beliebtheit. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/100/Looping.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/100/responsive/Looping-2xl.jpg 1600w\"  alt=\"Looping Louis\" width=\"1600\" height=\"1200\"></figure>\n<p>Spiele wie Twister, Looping Louie oder die Murmelbahn bringen uns Abwechslung, Bewegung, Spannung und Freude auch in Corona-Zeiten.</p>\n<p> </p>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/100/Twister.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-03-14T20:02:40+01:00",
-            "date_modified": "2021-03-14T20:02:40+01:00"
         }
     ]
 }
