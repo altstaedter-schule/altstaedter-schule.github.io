@@ -156,6 +156,7 @@ html.no-scroll {
 }
 
 body {
+  height: -webkit-fill-available;
   background: rgba(0,0,0,0.02);
   color: var(--text-color);
   font-family: var(--body-font);
@@ -1329,13 +1330,6 @@ textarea {
   transition: all 0.3s cubic-bezier(0, 0, 0.3, 1);
   width: 100%;
   z-index: 1001;
-}
-
-@supports (-webkit-touch-callout: none) {
-  .navbar_mobile_overlay {
-    height: calc(-webkit-fill-available - 4rem);
-    background-color: purple;
-  }
 }
 
 .navbar_mobile_overlay.is-hidden {
