@@ -1334,6 +1334,7 @@ textarea {
 @supports (-webkit-touch-callout: none) {
   .navbar_mobile_overlay {
     height: calc(-webkit-fill-available - 4rem);
+    background-color: purple;
   }
 }
 
