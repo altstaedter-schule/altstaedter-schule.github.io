@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/kinder/",
+            "url": "https://www.altstaedter-grundschule.de/kinder/",
+            "title": "Kinder",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-03T18:04:52+01:00",
+            "date_modified": "2022-01-03T18:05:22+01:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/der-nikolaus-war-zu-beschaeftigt/",
             "url": "https://www.altstaedter-grundschule.de/der-nikolaus-war-zu-beschaeftigt/",
             "title": "Der Nikolaus war zu beschäftigt",
@@ -68,7 +80,7 @@
             "tags": [
             ],
             "date_published": "2021-10-03T17:04:14+02:00",
-            "date_modified": "2021-10-03T17:04:14+02:00"
+            "date_modified": "2022-01-03T18:05:27+01:00"
         },
         {
             "id": "https://www.altstaedter-grundschule.de/einschulungsfeier-am-samstag-dem-4-september/",
@@ -144,21 +156,6 @@
             ],
             "date_published": "2021-05-09T15:38:19+02:00",
             "date_modified": "2021-05-09T15:40:50+02:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/es-ist-fruehling/",
-            "url": "https://www.altstaedter-grundschule.de/es-ist-fruehling/",
-            "title": "Es ist Frühling",
-            "summary": "Die Altstädter Schule wünschte allen Kindern schöne Osterferien. ",
-            "content_html": "<p>Die Altstädter Schule wünschte allen Kindern schöne Osterferien.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/102/Ostern.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-2xl.jpg 1600w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/102/Fruehling.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-06T14:24:14+02:00",
-            "date_modified": "2021-04-06T14:24:14+02:00"
         }
     ]
 }

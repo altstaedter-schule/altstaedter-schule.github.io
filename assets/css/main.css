@@ -1330,6 +1330,13 @@ textarea {
   width: 100%;
   z-index: 1001;
 }
+
+@supports (-webkit-touch-callout: none) {
+  .navbar_mobile_overlay {
+    height: calc(-webkit-fill-available - 4rem);
+  }
+}
+
 .navbar_mobile_overlay.is-hidden {
   opacity: 0;
   pointer-events: none;

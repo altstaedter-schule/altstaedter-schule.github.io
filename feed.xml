@@ -3,12 +3,24 @@
     <title>Altstädter Schule</title>
     <link href="https://www.altstaedter-grundschule.de/feed.xml" rel="self" />
     <link href="https://www.altstaedter-grundschule.de" />
-    <updated>2021-12-11T17:05:30+01:00</updated>
+    <updated>2022-01-03T18:05:27+01:00</updated>
     <author>
         <name>Rita Lemper</name>
     </author>
     <id>https://www.altstaedter-grundschule.de</id>
 
+    <entry>
+        <title>Kinder</title>
+        <author>
+            <name>Rita Lemper</name>
+        </author>
+        <link href="https://www.altstaedter-grundschule.de/kinder/"/>
+        <id>https://www.altstaedter-grundschule.de/kinder/</id>
+
+        <updated>2022-01-03T18:05:22+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Der Nikolaus war zu beschäftigt</title>
         <author>
@@ -87,7 +99,7 @@
         <link href="https://www.altstaedter-grundschule.de/lesen-macht-stark/"/>
         <id>https://www.altstaedter-grundschule.de/lesen-macht-stark/</id>
 
-        <updated>2021-10-03T17:04:14+02:00</updated>
+        <updated>2022-01-03T18:05:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.altstaedter-grundschule.de/media/posts/108/Lesen_macht_stark.png" alt="" />
@@ -242,29 +254,6 @@
 <figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/103/gallery/Toepfern_3-2.jpg" data-size="1024x768"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/103/gallery/Toepfern_3-2-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
 <figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/103/gallery/Toepfern_4-2.jpg" data-size="1024x768"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/103/gallery/Toepfern_4-2-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Es ist Frühling</title>
-        <author>
-            <name>Rita Lemper</name>
-        </author>
-        <link href="https://www.altstaedter-grundschule.de/es-ist-fruehling/"/>
-        <id>https://www.altstaedter-grundschule.de/es-ist-fruehling/</id>
-
-        <updated>2021-04-06T14:24:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.altstaedter-grundschule.de/media/posts/102/Fruehling.jpg" alt="" />
-                    Die Altstädter Schule wünschte allen Kindern schöne Osterferien. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.altstaedter-grundschule.de/media/posts/102/Fruehling.jpg" alt="" />
-                <p>Die Altstädter Schule wünschte allen Kindern schöne Osterferien.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/102/Ostern.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/102/responsive/Ostern-2xl.jpg 1600w"  alt="" width="1600" height="1200"></figure>
             ]]>
         </content>
     </entry>
