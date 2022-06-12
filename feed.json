@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/unsere-matheolympioniken-holen-den-pokal/",
+            "url": "https://www.altstaedter-grundschule.de/unsere-matheolympioniken-holen-den-pokal/",
+            "title": "Unsere Matheolympioniken holen den Pokal",
+            "summary": "Die Landesrunde der Matheolympiade 2022 im Gymnasium in der Wüste war für unsere Matheolympioniken ein voller Erfolg. Die Altstädter Schule nahm mit neun Kindern am Wettbewerb teil und bildete damit die kleinste Gruppe. Aber wie heißt es so schön: Die KLEINSTEN werden die GRÖßTEN sein.",
+            "content_html": "<p>Die Landesrunde der Matheolympiade 2022 im Gymnasium in der Wüste war für unsere Matheolympioniken ein voller Erfolg.  Die Altstädter Schule nahm mit neun Kindern am Wettbewerb teil und bildete damit die kleinste Gruppe. Aber wie heißt es so schön: Die KLEINSTEN werden die GRÖßTEN sein. Und so war es dann auch: Unsere Matheolympioniken holten den Pokal. Für die 4. Klassen erreichten Simon den 1. Platz, Justus und Theo den 2. Platz und für die 3. Klassen Ann-Kathrin den 3. Platz. Wir sind mächtig stolz auf euch.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade1..jpg\" data-size=\"3815x2547\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade1.-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade1.jpg\" data-size=\"1600x1251\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"563\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade3.jpg\" data-size=\"1600x1075\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade3-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"484\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade6.jpg\" data-size=\"3397x2249\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade6-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"477\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade12.jpg\" data-size=\"3591x2499\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade12-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"501\"></a></figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/116/CFC14673-6C43-4A06-B9A5-0098C7852B2B_1_105_c-2.jpeg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-12T17:33:58+02:00",
+            "date_modified": "2022-06-12T17:33:58+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/unser-video-zum-textilprojekt-mit-der-uni/",
             "url": "https://www.altstaedter-grundschule.de/unser-video-zum-textilprojekt-mit-der-uni/",
             "title": "Unser Video zum Textilprojekt mit der Uni",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-09-19T17:54:43+02:00",
             "date_modified": "2021-09-19T18:37:37+02:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/zum-abschied-der-4-klassen/",
-            "url": "https://www.altstaedter-grundschule.de/zum-abschied-der-4-klassen/",
-            "title": "Zum Abschied der 4. Klassen",
-            "summary": "Die letzten Tage an der Altstädter Schule bedeuteten für die Viertklässler Abschied nehmen von der Grundschulzeit. Die Patenklassen 2a und 2b gestalteten für die Viertklässler einen Abschied mit Rosen und Fähnchen. Zur Erinnerung an die Grundschulzeit gab es Bilderrahmen mit Erinnerungsfotos und hübsch verpackte Tüten&hellip;",
-            "content_html": "<p>Die letzten Tage an der Altstädter Schule bedeuteten für die Viertklässler Abschied nehmen von der Grundschulzeit. Die Patenklassen 2a und 2b gestalteten für die Viertklässler einen Abschied mit Rosen und Fähnchen. Zur Erinnerung an die Grundschulzeit gab es Bilderrahmen mit Erinnerungsfotos und hübsch verpackte Tüten mit Porträtfotos von jedem einzelnen. Schön war die Zeit mit euch. Macht's gut!</p>\n<p> </p>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/106/Portraet.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-21T20:35:43+02:00",
-            "date_modified": "2021-07-21T20:36:17+02:00"
         }
     ]
 }
