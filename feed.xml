@@ -3,7 +3,7 @@
     <title>Altstädter Schule</title>
     <link href="https://www.altstaedter-grundschule.de/feed.xml" rel="self" />
     <link href="https://www.altstaedter-grundschule.de" />
-    <updated>2022-06-15T20:44:58+02:00</updated>
+    <updated>2022-06-19T19:07:43+02:00</updated>
     <author>
         <name>Rita Lemper</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://www.altstaedter-grundschule.de/schulsozialarbeit/"/>
         <id>https://www.altstaedter-grundschule.de/schulsozialarbeit/</id>
 
-        <updated>2022-06-15T20:44:58+02:00</updated>
+        <updated>2022-06-19T18:39:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.altstaedter-grundschule.de/media/posts/117/IMG_3443.jpg" alt="" />
@@ -71,7 +71,7 @@
         <link href="https://www.altstaedter-grundschule.de/unsere-matheolympioniken-holen-den-pokal/"/>
         <id>https://www.altstaedter-grundschule.de/unsere-matheolympioniken-holen-den-pokal/</id>
 
-        <updated>2022-06-13T18:02:39+02:00</updated>
+        <updated>2022-06-19T19:07:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.altstaedter-grundschule.de/media/posts/116/Matheolympiade7.jpg" alt="" />
@@ -90,8 +90,10 @@
 <figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade6.jpg" data-size="3397x2249"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade6-thumbnail.jpg" alt="" width="720" height="477"></a></figure>
 <figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade12.jpg" data-size="3591x2499"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Matheolympiade12-thumbnail.jpg" alt="" width="720" height="501"></a></figure>
 </div></div>
-<p> </p>
-<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/116/gallery/urkunde-2.jpg" data-size="871x1478"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/116/gallery/urkunde-2-thumbnail.jpg" alt="" width="720" height="1222"></a></figure>
+<figure class="gallery__item"><a href="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Pokal-2.jpg" data-size="140x400"><img loading="lazy" src="https://www.altstaedter-grundschule.de/media/posts/116/gallery/Pokal-2-thumbnail.jpg" alt="" width="140" height="400"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -129,7 +131,7 @@
         <link href="https://www.altstaedter-grundschule.de/unsere-schulsozialarbeiterin/"/>
         <id>https://www.altstaedter-grundschule.de/unsere-schulsozialarbeiterin/</id>
 
-        <updated>2022-06-15T20:40:57+02:00</updated>
+        <updated>2022-06-19T18:40:28+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.altstaedter-grundschule.de/media/posts/114/IMG_3443.jpg" alt="" />
@@ -145,7 +147,7 @@
 <figcaption >Ich bin Sarah Kay Nardmann-Siwkowski, staatl. anerkannte Sozialarbeiterin B.A. </figcaption>
 </figure>
 <p>Seit dem 01. Februar 2022 bin ich als Schulsozialarbeiterin in der Altstädter Schule tätig. Ich habe Erziehungswissenschaften und Politikwissenschaft in Vechta studiert und Soziale Arbeit berufsbegleitend an der katholischen Hochschule in Berlin während ich dort bei einem freien Träger der Jugendhilfe gearbeitet habe. Nun freue ich mich auf das neue Arbeitsfeld mit Grundschülern und ihren Eltern. </p>
-<p>Mehr über unsere Schulsozialarbeiterin hier: <a href="https://www.altstaedter-grundschule.de/unsere-schulsozialarbeiterin/" target="_blank" rel="noopener noreferrer">Schulsozialarbeit</a></p>
+<p>Mehr über unsere Schulsozialarbeiterin hier: <a href="https://www.altstaedter-grundschule.de/schulsozialarbeit/" title="https://www.altstaedter-grundschule.de/schulsozialarbeit/">Schulsozialarbeit</a></p>
             ]]>
         </content>
     </entry>
