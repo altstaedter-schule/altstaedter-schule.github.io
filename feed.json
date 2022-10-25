@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/knopfakkordeon-geige-und-ukulele/",
+            "url": "https://www.altstaedter-grundschule.de/knopfakkordeon-geige-und-ukulele/",
+            "title": "Knopfakkordeon, Geige und Ukulele",
+            "summary": "In diesem Schuljahr haben wir großes Glück. Durch die Kooperation mit der Kunst- und Musikschule ist es möglich, dass wir im ersten Halbjahr dieses Schuljahres neben unserer Streicher-AG auch eine Knopfakkordeon-AG und eine Ukulele-AG anbieten können. Frau Strootmann von der Kunst- Musikschule leitet die Streicher-AG,&hellip;",
+            "content_html": "<p>In diesem Schuljahr haben wir großes Glück. Durch die Kooperation mit der Kunst- und Musikschule ist es möglich, dass wir im ersten Halbjahr dieses Schuljahres neben unserer Streicher-AG auch eine Knopfakkordeon-AG und eine Ukulele-AG anbieten können. Frau Strootmann von der Kunst- Musikschule leitet die Streicher-AG, die bereits im vergangenen Schuljahr begonnen hatte. Damit die Kinder fleißig üben können, dürfen sie die Geigen gegen einen Obolus von monatlich 5 € mit nach Hause nehmen. Herr Covivkovic von der Kunst- und Musikschule leitet die Knopfakkordeon-AG und Herr Wiedermann von der Kunst- und Musikschule die Ukulele-AG. Alle Instrumente werden den Kindern von der Kunst- und Musikschule zur Verfügung gestellt. Das ist großartig! Vielen Dank!</p>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/124/AG.png",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-25T14:57:34+02:00",
+            "date_modified": "2022-10-25T15:04:52+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/steckenpferdreiten-am-13-oktober-2022/",
             "url": "https://www.altstaedter-grundschule.de/steckenpferdreiten-am-13-oktober-2022/",
             "title": "Steckenpferdreiten am 13. Oktober 2022",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-05-17T18:07:44+02:00",
             "date_modified": "2022-05-19T17:27:33+02:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/unsere-schulsozialarbeiterin/",
-            "url": "https://www.altstaedter-grundschule.de/unsere-schulsozialarbeiterin/",
-            "title": "Unsere Schulsozialarbeiterin",
-            "summary": "Seit dem 01.02.2022 wird die Altstädter Schule durch die Schulsozialarbeiterin Sarah Kay Nardmann-Siwkowski tatkräftig unterstützt. Hier stellt sich nun unsere Schulsozialarbeiterin vor: Seit dem 01. Februar 2022 bin ich als Schulsozialarbeiterin in der Altstädter Schule tätig. Ich habe Erziehungswissenschaften und Politikwissenschaft in Vechta studiert und&hellip;",
-            "content_html": "<p>Seit dem 01.02.2022 wird die Altstädter Schule durch die Schulsozialarbeiterin Sarah Kay Nardmann-Siwkowski tatkräftig unterstützt.</p>\n<p>Hier stellt sich nun unsere Schulsozialarbeiterin vor:</p>\n<figure class=\"post__image post__image--left\" ><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/114/Schulsozialarbeiterin-3.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/114/responsive/Schulsozialarbeiterin-3-2xl.jpg 1600w\"  alt=\"\" width=\"450\" height=\"600\">\n<figcaption >Ich bin Sarah Kay Nardmann-Siwkowski, staatl. anerkannte Sozialarbeiterin B.A. </figcaption>\n</figure>\n<p>Seit dem 01. Februar 2022 bin ich als Schulsozialarbeiterin in der Altstädter Schule tätig. Ich habe Erziehungswissenschaften und Politikwissenschaft in Vechta studiert und Soziale Arbeit berufsbegleitend an der katholischen Hochschule in Berlin während ich dort bei einem freien Träger der Jugendhilfe gearbeitet habe. Nun freue ich mich auf das neue Arbeitsfeld mit Grundschülern und ihren Eltern. </p>\n<p>Mehr über unsere Schulsozialarbeiterin hier: <a href=\"https://www.altstaedter-grundschule.de/schulsozialarbeit/\" title=\"https://www.altstaedter-grundschule.de/schulsozialarbeit/\">Schulsozialarbeit</a></p>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/114/IMG_3443.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-03-08T17:52:17+01:00",
-            "date_modified": "2022-06-19T19:21:07+02:00"
         }
     ]
 }
