@@ -238,7 +238,7 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/ags/</loc>
-<lastmod>2022-12-08T19:00:26+01:00</lastmod>
+<lastmod>2023-08-03T17:30:41+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/89/Lego-3.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -618,7 +618,7 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/einschulung/</loc>
-<lastmod>2022-07-12T18:26:05+02:00</lastmod>
+<lastmod>2023-08-03T18:08:46+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/23/7D107DBE-0648-4C49-A564-98361A83A8C1_1_105_c.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1608,7 +1608,7 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/schule/</loc>
-<lastmod>2022-11-01T17:24:08+01:00</lastmod>
+<lastmod>2023-08-03T17:12:43+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/97/Uber-uns.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1617,6 +1617,10 @@
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/97/Kollegium.jpg</image:loc>
 <image:title><![CDATA[Unser Kollegium]]></image:title>
 </image:image>
+<image:image>
+<image:loc>https://www.altstaedter-grundschule.de/media/posts/97/Full_HD_Unterrichtszeiten.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/schulelternrat/</loc>
@@ -1624,7 +1628,7 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/schulmaterial/</loc>
-<lastmod>2022-07-12T18:39:40+02:00</lastmod>
+<lastmod>2023-08-03T18:04:19+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/25/Schulmaterial2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1696,7 +1700,7 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/startseite-2/</loc>
-<lastmod>2023-07-06T16:57:05+02:00</lastmod>
+<lastmod>2023-08-03T18:17:16+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/91/startseite-2.png</image:loc>
 <image:title><![CDATA[Herzlich willkommen]]></image:title>
@@ -2244,9 +2248,13 @@
 </url>
 <url>
 <loc>https://www.altstaedter-grundschule.de/unterrichtszeiten/</loc>
-<lastmod>2022-02-02T17:11:12+01:00</lastmod>
+<lastmod>2023-08-03T17:22:55+02:00</lastmod>
 <image:image>
 <image:loc>https://www.altstaedter-grundschule.de/media/posts/87/Unterrichtszeiten-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.altstaedter-grundschule.de/media/posts/87/Full_HD_Unterrichtszeiten.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
