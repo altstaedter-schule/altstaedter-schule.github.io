@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/der-aktuelle-speiseplan-der-woche/",
+            "url": "https://www.altstaedter-grundschule.de/der-aktuelle-speiseplan-der-woche/",
+            "title": "Speiseplan ",
+            "summary": "Hier der aktuelle Speiseplan der Woche:",
+            "content_html": "<p>Hier der aktuelle Speiseplan der Woche:</p>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/152/Speiseplan-4.jpg\" alt=\"\" width=\"1600\" height=\"837\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-18T19:36:52+02:00",
+            "date_modified": "2024-09-18T19:46:50+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/einschulungsfeier-am-10-august-2024/",
             "url": "https://www.altstaedter-grundschule.de/einschulungsfeier-am-10-august-2024/",
             "title": "Einschulungsfeier am 10. August 2024",
@@ -144,21 +158,6 @@
             ],
             "date_published": "2023-12-10T17:48:05+01:00",
             "date_modified": "2023-12-10T17:48:05+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/weihnachtskarten-fuer-derby-2/",
-            "url": "https://www.altstaedter-grundschule.de/weihnachtskarten-fuer-derby-2/",
-            "title": "Weihnachtskarten für Derby",
-            "summary": "Der Städtebotschafter, Jason Dierker, besuchte unsere vierten Klassen und erzählte den Viertklässlern, wie in Great Britain Christmas gefeiert wird. Die Viertklässler und Viertklässlerinnen überreichten ihm die Weihnachtskarten, die sie für Kinder in Derby gestaltet und geschrieben haben. Nun warten unsere vierten Klassen ganz gespannt auf&hellip;",
-            "content_html": "<p>Der Städtebotschafter, Jason Dierker, besuchte unsere vierten Klassen und erzählte den Viertklässlern, wie in Great Britain Christmas gefeiert wird. Die Viertklässler und Viertklässlerinnen überreichten ihm die Weihnachtskarten, die sie für Kinder in Derby gestaltet und geschrieben haben. Nun warten unsere vierten Klassen ganz gespannt auf die Weihnachtskarten aus Derby.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/142/gallery/Derby2.jpg\" data-size=\"1200x1600\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/142/gallery/Derby2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/142/gallery/Derby3.jpg\" data-size=\"1200x1600\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/142/gallery/Derby3-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n</div></div>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/142/Derby1.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-12-10T16:35:06+01:00",
-            "date_modified": "2023-12-10T16:35:06+01:00"
         }
     ]
 }
