@@ -16,13 +16,14 @@
             "title": "Speiseplan ",
             "summary": "Hier der aktuelle Speiseplan der Woche:",
             "content_html": "<p>Hier der aktuelle Speiseplan der Woche:</p>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/152/Speiseplan-4.jpg\" alt=\"\" width=\"1600\" height=\"837\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-4-2xl.jpg 1600w\"></figure>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/152/Mensa.png",
             "author": {
                 "name": "Rita Lemper"
             },
             "tags": [
             ],
             "date_published": "2024-09-18T19:36:52+02:00",
-            "date_modified": "2024-09-18T19:46:50+02:00"
+            "date_modified": "2024-09-22T17:33:50+02:00"
         },
         {
             "id": "https://www.altstaedter-grundschule.de/einschulungsfeier-am-10-august-2024/",
