@@ -120,7 +120,7 @@
             "url": "https://www.altstaedter-grundschule.de/der-aktuelle-speiseplan-der-woche/",
             "title": "Speiseplan ",
             "summary": "Hier der aktuelle Speiseplan der Woche:",
-            "content_html": "<p>Hier der aktuelle Speiseplan der Woche:</p>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/152/Speise-KW.06-03.02.W.F.png\" alt=\"\" width=\"1092\" height=\"548\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-xs.png 300w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-sm.png 480w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-md.png 768w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-lg.png 1024w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-xl.png 1360w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speise-KW.06-03.02.W.F-2xl.png 1600w\"></figure>",
+            "content_html": "<p>Hier der aktuelle Speiseplan der Woche:</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/152/Speiseplan.png\" alt=\"\" width=\"1157\" height=\"546\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-xs.png 300w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-sm.png 480w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-md.png 768w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-lg.png 1024w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-xl.png 1360w ,https://www.altstaedter-grundschule.de/media/posts/152/responsive/Speiseplan-2xl.png 1600w\"></figure>",
             "image": "https://www.altstaedter-grundschule.de/media/posts/152/Mensa.png",
             "author": {
                 "name": "Rita Lemper"
@@ -128,7 +128,7 @@
             "tags": [
             ],
             "date_published": "2024-09-18T19:36:52+02:00",
-            "date_modified": "2025-02-03T20:41:35+01:00"
+            "date_modified": "2025-02-09T15:19:38+01:00"
         },
         {
             "id": "https://www.altstaedter-grundschule.de/einschulungsfeier-am-10-august-2024/",
