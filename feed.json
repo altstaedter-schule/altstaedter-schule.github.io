@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/das-pudelschwein/",
+            "url": "https://www.altstaedter-grundschule.de/das-pudelschwein/",
+            "title": "Das Pudelschwein",
+            "summary": "Die Altstädter Schule freute sich am Freitag, dem 16. Mai über die Autorenlesung von Jennifer Schotter mit ihrem Buch \"Das Pudelschwein\". Das Pudelschwein ist eine Geschichte über Abenteuer, Mut, Freundschaft und Anderssein. Das Pudelschwein Pu ist nämlich anders als andere Schweine. Es versucht so zu&hellip;",
+            "content_html": "<p>Die Altstädter Schule freute sich am Freitag, dem 16. Mai über die Autorenlesung von Jennifer Schotter mit ihrem Buch \"Das Pudelschwein\". Das Pudelschwein ist eine Geschichte über Abenteuer, Mut, Freundschaft und Anderssein. Das Pudelschwein Pu ist nämlich anders als andere Schweine. Es versucht so zu sein wie die anderen, aber es gelingt ihm nicht. Eines Tages macht sich Pu auf die Reise nach Wunderstadt. Dort begegnet es der Katze Kit. Sie entdeckt Pu's wahres Talent. Und so nimmt das Schicksal seinen Lauf. Pu schafft es. Pu findet endlich Freunde, die ihn so mögen wie er eben ist. Ein Buch, das Mut macht! </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_1.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_2.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_3.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/165/gallery/Pudelschwein_3-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/165/Pudelschwein_0.jpg",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-18T18:43:52+02:00",
+            "date_modified": "2025-05-18T18:43:52+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/die-gesunde-stunde-an-der-nackten-muehle/",
             "url": "https://www.altstaedter-grundschule.de/die-gesunde-stunde-an-der-nackten-muehle/",
             "title": "Die &quot;Gesunde Stunde&quot; an der nackten Mühle",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2024-11-25T17:41:13+01:00",
             "date_modified": "2024-11-25T17:41:13+01:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/unser-schulparlament/",
-            "url": "https://www.altstaedter-grundschule.de/unser-schulparlament/",
-            "title": "Unser Schulparlament",
-            "summary": "Unser Schulparlament setzt sich aus den Klassensprechern und Klassensprecherinnen der 2., 3. und 4. Klassen zusammen. Wir besprechen im Schulparlament Probleme und suchen nach Lösungen. In der nächsten Woche wollen wir uns mit der Lautstärke in Mensa befassen und uns noch einmal genau unsere Mensaregeln&hellip;",
-            "content_html": "<p>Unser Schulparlament setzt sich aus den Klassensprechern und Klassensprecherinnen der 2., 3. und 4. Klassen zusammen. </p>\n<p>Wir besprechen im Schulparlament Probleme und suchen nach Lösungen. In der nächsten Woche wollen wir uns mit der Lautstärke in Mensa befassen und uns noch einmal genau unsere Mensaregeln ansehen.</p>\n<p>Unser Schulsprecher und unsere Schulsprecherin sind Amir aus der 4a und Iuno aus der 3a.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/155/Sprecher.jpg\" alt=\"\" width=\"1600\" height=\"1949\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/155/responsive/Sprecher-2xl.jpg 1600w\"></figure>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/155/Schhulparlament.jpeg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-11-24T19:48:21+01:00",
-            "date_modified": "2024-11-24T19:48:21+01:00"
         }
     ]
 }
