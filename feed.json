@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.altstaedter-grundschule.de/unsere-kids-aus-der-erste-hilfe-ag/",
+            "url": "https://www.altstaedter-grundschule.de/unsere-kids-aus-der-erste-hilfe-ag/",
+            "title": "Unsere &quot;Kids&quot; aus der Erste-Hilfe-AG",
+            "summary": "Unsere \"Kids\" aus der Erste-Hilfe-AG helfen jeden Tag in den großen Pausen auf dem Schulhof. Ob Pflaster oder Kühlpack - sie versorgen euch, wenn ihr stürzt oder euch weh tut.",
+            "content_html": "<p>Unsere \"Kids\" aus der Erste-Hilfe-AG helfen jeden Tag in den großen Pausen auf dem Schulhof. Ob Pflaster oder Kühlpack - sie versorgen euch, wenn ihr stürzt oder euch weh tut.</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://www.altstaedter-grundschule.de/media/posts/178/Erste_Hilfe.jpg\" alt=\"\" width=\"1600\" height=\"900\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/178/responsive/Erste_Hilfe-2xl.jpg 1600w\"></figure>",
+            "image": "https://www.altstaedter-grundschule.de/media/posts/178/Full_HD_Erste_Hilfe_Bild.png",
+            "author": {
+                "name": "Rita Lemper"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-03T14:41:45+02:00",
+            "date_modified": "2026-05-03T14:41:45+02:00"
+        },
+        {
             "id": "https://www.altstaedter-grundschule.de/textile-kunst-ag/",
             "url": "https://www.altstaedter-grundschule.de/textile-kunst-ag/",
             "title": "Textile-Kunst-AG",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2025-06-29T14:18:51+02:00",
             "date_modified": "2025-06-29T14:18:51+02:00"
-        },
-        {
-            "id": "https://www.altstaedter-grundschule.de/altstaedter-schule-bei-den-stadtmeisterschaften-der-leichtathletik-vertreten/",
-            "url": "https://www.altstaedter-grundschule.de/altstaedter-schule-bei-den-stadtmeisterschaften-der-leichtathletik-vertreten/",
-            "title": "Altstädter Schule bei den Stadtmeisterschaften der Leichtathletik vertreten",
-            "summary": "Am Mittwoch, den 25. Juni, nahmen zwölf sportbegeisterte Kinder der Altstädter Schule an den Leichtathletik-Stadtmeisterschaften der Osnabrücker Grundschulen auf der Illoshöhe teil. In den Disziplinen Laufen, Springen und Werfen zeigten alle Teilnehmenden großen Einsatz und erzielten teilweise persönliche Bestleistungen. Im Dreikampf, bestehend aus 50-Meter-Sprint, Weitwurf&hellip;",
-            "content_html": "<p>Am Mittwoch, den 25. Juni, nahmen zwölf sportbegeisterte Kinder der Altstädter Schule an den Leichtathletik-Stadtmeisterschaften der Osnabrücker Grundschulen auf der Illoshöhe teil. In den Disziplinen Laufen, Springen und Werfen zeigten alle Teilnehmenden großen Einsatz und erzielten teilweise persönliche Bestleistungen.<br><br>Im Dreikampf, bestehend aus 50-Meter-Sprint, Weitwurf und Weitsprung, erreichte unser Team einen respektablen 8. Platz von insgesamt 14 Schulen. Auch in den Staffelwettbewerben – der 3x400-Meter-Staffel sowie der 2x40-Meter-Pendelstaffel – gaben unsere Schülerinnen und Schüler alles und belegten Plätze im unteren Mittelfeld.<br><br>Wir sind stolz auf unsere jungen Athletinnen und Athleten, die mit viel Freude, Teamgeist und Engagement unsere Schule vertreten haben!</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/166/gallery/Stadtmeisterschaften.jpg\" data-size=\"1600x2133\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/166/gallery/Stadtmeisterschaften-thumbnail.jpg\" alt=\"Leichtathletik Stadtmeisterschaften\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.altstaedter-grundschule.de/media/posts/166/gallery/Stadtm_03.jpg\" data-size=\"1600x2133\"><img loading=\"lazy\" src=\"https://www.altstaedter-grundschule.de/media/posts/166/gallery/Stadtm_03-thumbnail.jpg\" alt=\"Unsere teilnehmenden Kinder\" width=\"720\" height=\"960\"></a></figure>\n</div></div>",
-            "image": "https://www.altstaedter-grundschule.de/media/posts/166/Stadtm_2-2.jpg",
-            "author": {
-                "name": "Rita Lemper"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-29T10:36:03+02:00",
-            "date_modified": "2025-06-29T10:36:03+02:00"
         }
     ]
 }
