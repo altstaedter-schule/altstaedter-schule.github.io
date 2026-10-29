@@ -3,7 +3,7 @@
     <title>Altstädter Schule</title>
     <link href="https://www.altstaedter-grundschule.de/feed.xml" rel="self" />
     <link href="https://www.altstaedter-grundschule.de" />
-    <updated>2026-10-29T19:46:42+01:00</updated>
+    <updated>2026-10-29T19:57:36+01:00</updated>
     <author>
         <name>Rita Lemper</name>
     </author>
@@ -16,21 +16,22 @@
         </author>
         <link href="https://www.altstaedter-grundschule.de/aus-unserer-grafik-ag-2/"/>
         <id>https://www.altstaedter-grundschule.de/aus-unserer-grafik-ag-2/</id>
-        <media:content url="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_5.jpg" medium="image" />
+        <media:content url="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_4.jpg" medium="image" />
 
         <updated>2026-10-29T19:46:42+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_5.jpg" alt="" />
+                        <img src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_4.jpg" alt="" />
                     Eindrücke aus unserer Grafik-AG. Unsere Künstler zeigen, was sie können.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_5.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_4.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Eindrücke aus unserer Grafik-AG. Unsere Künstler zeigen, was sie können.</p>
 <figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_1.jpg" alt="" width="1600" height="1200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_1-2xl.jpg 1600w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_2.jpg" alt="" width="1600" height="2133" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_2-2xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.altstaedter-grundschule.de/media/posts/191/GrafikAG_3.jpg" alt="" width="1326" height="1057" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-xs.jpg 300w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-sm.jpg 480w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-md.jpg 768w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-lg.jpg 1024w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-xl.jpg 1360w ,https://www.altstaedter-grundschule.de/media/posts/191/responsive/GrafikAG_3-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
